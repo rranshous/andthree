@@ -1,0 +1,7 @@
+GOAL: simple website which allows you take a photo from your webcam and share it
+IMPL: photo is hosted via ipfs and ref is shared via contract. photo is encrypted for each targeted via their account's private key
+
+
+impl0: image uploaded to ipfs + URI put on page
+impl1: ipfs hash shared via contract
+impl2: image data encrypted for targeted user
